@@ -1,0 +1,23 @@
+﻿  CoinKeeper.cpp
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(91,25): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(103,13): warning C4018: >=: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(188,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(212,19): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(235,19): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(252,14): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(253,18): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(285,20): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(350,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(360,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(370,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(380,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(397,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(415,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(422,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(429,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(436,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(444,21): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(448,22): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(455,22): warning C4018: <: несоответствие типов со знаком и без знака
+Q:\C++ project\My project\Программы\CoinKeeper\CoinKeeper\CoinKeeper.cpp(520,25): warning C4018: <: несоответствие типов со знаком и без знака
+  CoinKeeper.vcxproj -> Q:\C++ project\My project\Программы\CoinKeeper\Debug\CoinKeeper.exe
